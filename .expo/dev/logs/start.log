@@ -1,0 +1,534 @@
+{"_e":"root:init","_t":1791350678785,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1791350678785,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1791350678786,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1791350679115,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1791350679438,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1791350679620,"plugins":[]}
+{"_e":"metro:instantiate","_t":1791350683708,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1791350684609,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791350705331,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791350705331,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791350736126,"id":"1","total":3263,"ms":51515.86058}
+{"_e":"metro:bundling:done","_t":1791350736466,"id":"4","total":2766,"ms":31134.539325}
+{"_e":"metro:bundling:started","_t":1791350737086,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791350737086,"id":"7","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791350737181,"id":"7","total":1,"ms":94.777121}
+{"_e":"metro:bundling:done","_t":1791350737235,"id":"3","total":2771,"ms":31903.704699}
+{"_e":"metro:bundling:done","_t":1791350737272,"id":"6","total":1,"ms":185.839753}
+{"_e":"metro:bundling:started","_t":1791350737483,"id":"8","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791350747718,"id":"8","total":2771,"ms":10235.037823}
+{"_e":"metro:bundling:started","_t":1791350996480,"id":"a","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791350996482,"id":"b","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791350997015,"id":"b","total":1,"ms":531.84285}
+{"_e":"metro:bundling:done","_t":1791350997475,"id":"a","total":1,"ms":993.470987}
+{"_e":"metro:bundling:started","_t":1791350997586,"id":"c","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791350998390,"id":"c","total":1,"ms":803.460357}
+{"_e":"metro:client_log","_t":1791350998990,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791350998990,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791350999782,"id":"e","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791350999786,"id":"f","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791350999902,"id":"f","total":1,"ms":116.013736}
+{"_e":"metro:bundling:done","_t":1791350999961,"id":"e","total":1,"ms":178.766167}
+{"_e":"metro:bundling:started","_t":1791351062784,"id":"h","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791351062785,"id":"i","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791351062872,"id":"i","total":1,"ms":86.962538}
+{"_e":"metro:bundling:done","_t":1791351062935,"id":"h","total":1,"ms":150.67641}
+{"_e":"metro:bundling:started","_t":1791351063340,"id":"j","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791351063387,"id":"j","total":1,"ms":46.42081}
+{"_e":"metro:client_log","_t":1791351063599,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791351063599,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791351086167,"id":"l","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791351086168,"id":"m","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791351086230,"id":"m","total":1,"ms":61.996143}
+{"_e":"metro:bundling:done","_t":1791351086286,"id":"l","total":1,"ms":119.100402}
+{"_e":"metro:bundling:started","_t":1791351086953,"id":"n","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791351087001,"id":"n","total":1,"ms":48.177267}
+{"_e":"metro:bundling:started","_t":1791352830323,"id":"p","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791352830328,"id":"q","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791352831327,"id":"q","total":1,"ms":997.98982}
+{"_e":"metro:bundling:done","_t":1791352831457,"id":"p","total":1,"ms":1130.268874}
+{"_e":"metro:bundling:started","_t":1791352834654,"id":"r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791352835240,"id":"r","total":1,"ms":586.11695}
+{"_e":"metro:client_log","_t":1791352837368,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791352999156,"id":"t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791352999157,"id":"u","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791352999471,"id":"u","total":1,"ms":313.327609}
+{"_e":"metro:bundling:done","_t":1791352999956,"id":"t","total":1,"ms":799.956478}
+{"_e":"metro:bundling:started","_t":1791353000082,"id":"v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353000166,"id":"v","total":1,"ms":84.111808}
+{"_e":"metro:client_log","_t":1791353001208,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353001208,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353011120,"id":"x","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353011131,"id":"y","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353011219,"id":"y","total":1,"ms":88.217646}
+{"_e":"metro:bundling:done","_t":1791353011295,"id":"x","total":1,"ms":164.811177}
+{"_e":"metro:bundling:started","_t":1791353012083,"id":"z","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353012122,"id":"z","total":1,"ms":38.056227}
+{"_e":"metro:client_log","_t":1791353012335,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353012335,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353019512,"id":"11","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353019512,"id":"12","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353019588,"id":"12","total":1,"ms":75.15686}
+{"_e":"metro:bundling:done","_t":1791353019818,"id":"11","total":1,"ms":306.000749}
+{"_e":"metro:bundling:started","_t":1791353019896,"id":"13","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353019967,"id":"13","total":1,"ms":68.502574}
+{"_e":"metro:client_log","_t":1791353020392,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353020394,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353048156,"id":"15","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353048157,"id":"16","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353048218,"id":"16","total":1,"ms":61.216026}
+{"_e":"metro:bundling:done","_t":1791353048272,"id":"15","total":1,"ms":116.04888}
+{"_e":"metro:bundling:started","_t":1791353049479,"id":"17","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353049539,"id":"17","total":1,"ms":59.886087}
+{"_e":"metro:client_log","_t":1791353051708,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353222449,"id":"19","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353222449,"id":"1a","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353223629,"id":"1a","total":1,"ms":1179.929432}
+{"_e":"metro:bundling:done","_t":1791353223823,"id":"19","total":1,"ms":1374.183859}
+{"_e":"metro:bundling:started","_t":1791353224657,"id":"1b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353224847,"id":"1b","total":1,"ms":189.803329}
+{"_e":"metro:client_log","_t":1791353225698,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353225698,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353254674,"id":"1d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353254674,"id":"1e","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353254760,"id":"1e","total":1,"ms":86.297235}
+{"_e":"metro:bundling:done","_t":1791353255206,"id":"1d","total":1,"ms":532.18625}
+{"_e":"metro:bundling:started","_t":1791353255273,"id":"1f","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353255335,"id":"1f","total":1,"ms":62.117571}
+{"_e":"metro:client_log","_t":1791353255583,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353255585,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353299958,"id":"1h","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353299958,"id":"1i","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353300092,"id":"1i","total":1,"ms":134.353878}
+{"_e":"metro:bundling:done","_t":1791353300263,"id":"1h","total":1,"ms":305.269702}
+{"_e":"metro:bundling:started","_t":1791353300744,"id":"1j","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353300835,"id":"1j","total":1,"ms":90.180805}
+{"_e":"metro:client_log","_t":1791353301439,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353301440,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353327402,"id":"1l","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353327407,"id":"1m","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353327511,"id":"1m","total":1,"ms":103.898067}
+{"_e":"metro:bundling:done","_t":1791353327569,"id":"1l","total":1,"ms":161.577053}
+{"_e":"metro:bundling:started","_t":1791353328144,"id":"1n","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353328263,"id":"1n","total":1,"ms":118.730908}
+{"_e":"metro:client_log","_t":1791353328541,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791353328541,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791353370384,"id":"1p","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791353370384,"id":"1q","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791353370433,"id":"1q","total":1,"ms":49.601117}
+{"_e":"metro:bundling:done","_t":1791353370489,"id":"1p","total":1,"ms":104.985968}
+{"_e":"metro:bundling:started","_t":1791353371737,"id":"1r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791353371794,"id":"1r","total":1,"ms":57.164102}
+{"_e":"metro:client_log","_t":1791353373839,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354047751,"id":"1t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354047753,"id":"1u","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354048373,"id":"1u","total":1,"ms":620.395471}
+{"_e":"metro:bundling:done","_t":1791354048453,"id":"1t","total":1,"ms":701.663507}
+{"_e":"metro:bundling:started","_t":1791354049035,"id":"1v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354049193,"id":"1v","total":1,"ms":157.454905}
+{"_e":"metro:client_log","_t":1791354050093,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791354050095,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354155871,"id":"1x","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354155872,"id":"1y","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354155941,"id":"1y","total":1,"ms":69.515611}
+{"_e":"metro:bundling:done","_t":1791354156001,"id":"1x","total":1,"ms":129.570483}
+{"_e":"metro:bundling:started","_t":1791354156724,"id":"1z","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354156782,"id":"1z","total":1,"ms":58.291086}
+{"_e":"metro:client_log","_t":1791354158692,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354230236,"id":"21","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354230237,"id":"22","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354230294,"id":"22","total":1,"ms":56.950355}
+{"_e":"metro:bundling:done","_t":1791354230678,"id":"21","total":1,"ms":442.168568}
+{"_e":"metro:bundling:started","_t":1791354231568,"id":"23","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354231620,"id":"23","total":1,"ms":51.479653}
+{"_e":"metro:bundling:started","_t":1791354234733,"id":"25","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354234734,"id":"26","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354234793,"id":"26","total":1,"ms":59.460908}
+{"_e":"metro:bundling:done","_t":1791354234848,"id":"25","total":1,"ms":114.732828}
+{"_e":"metro:bundling:started","_t":1791354235287,"id":"27","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354235346,"id":"27","total":1,"ms":58.612953}
+{"_e":"metro:client_log","_t":1791354237240,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354242156,"id":"29","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354242156,"id":"2a","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354242214,"id":"2a","total":1,"ms":58.30818}
+{"_e":"metro:bundling:done","_t":1791354242586,"id":"29","total":1,"ms":430.300262}
+{"_e":"metro:bundling:started","_t":1791354242957,"id":"2b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354243012,"id":"2b","total":1,"ms":54.525497}
+{"_e":"metro:bundling:started","_t":1791354244849,"id":"2d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354244850,"id":"2e","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354244912,"id":"2e","total":1,"ms":61.871562}
+{"_e":"metro:client_log","_t":1791354245076,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791354245077,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:done","_t":1791354245078,"id":"2d","total":1,"ms":228.8008}
+{"_e":"metro:bundling:started","_t":1791354465009,"id":"2g","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354465010,"id":"2h","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354466220,"id":"2h","total":1,"ms":1210.550041}
+{"_e":"metro:bundling:done","_t":1791354467621,"id":"2g","total":1,"ms":2611.513519}
+{"_e":"metro:bundling:started","_t":1791354468517,"id":"2i","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354468558,"id":"2i","total":1,"ms":40.866747}
+{"_e":"metro:client_log","_t":1791354470602,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791354470603,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:failed","_t":1791354538753,"id":null,"message":"Error: /home/user/project/courtvision/src/lib/pdf-import.ts: Unexpected token, expected \";\" (10:6)\n\n   8 |   }> };\n   9 |\n> 10 | const MAX_PDF_BYTES = 20 * 1024 * 1024;\n     |       ^\n  11 |\n  12 | export async function pickTrainingPdf(): Promise<{ name: string; text: string } | null> {\n  13 |   const result = await DocumentPicker.getDocumentAsync({ type: \"application/pdf\", copyToCacheDirectory: true, multiple: false });","importStack":null,"filename":"src/lib/pdf-import.ts","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1791354538759,"level":"error","data":["[TransformError: Error: /home/user/project/courtvision/src/lib/pdf-import.ts: Unexpected token, expected \";\" (10:6)\n\n   8 |   }> };\n   9 |\n> 10 | const MAX_PDF_BYTES = 20 * 1024 * 1024;\n     |       ^\n  11 |\n  12 | export async function pickTrainingPdf(): Promise<{ name: string; text: string } | null> {\n  13 |   const result = await DocumentPicker.getDocumentAsync({ type: \"application/pdf\", copyToCacheDirectory: true, multiple: false });]"]}
+{"_e":"metro:bundling:failed","_t":1791354549685,"id":null,"message":"Error: /home/user/project/courtvision/src/lib/pdf-import.ts: Unexpected token, expected \";\" (10:6)\n\n   8 |   }> };\n   9 |\n> 10 | const MAX_PDF_BYTES = 20 * 1024 * 1024;\n     |       ^\n  11 |\n  12 | export async function pickTrainingPdf(): Promise<{ name: string; text: string } | null> {\n  13 |   const result = await DocumentPicker.getDocumentAsync({ type: \"application/pdf\", copyToCacheDirectory: true, multiple: false });","importStack":null,"filename":"src/lib/pdf-import.ts","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1791354549690,"level":"error","data":["[TransformError: Error: /home/user/project/courtvision/src/lib/pdf-import.ts: Unexpected token, expected \";\" (10:6)\n\n   8 |   }> };\n   9 |\n> 10 | const MAX_PDF_BYTES = 20 * 1024 * 1024;\n     |       ^\n  11 |\n  12 | export async function pickTrainingPdf(): Promise<{ name: string; text: string } | null> {\n  13 |   const result = await DocumentPicker.getDocumentAsync({ type: \"application/pdf\", copyToCacheDirectory: true, multiple: false });]"]}
+{"_e":"metro:bundling:started","_t":1791354606165,"id":"2n","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354606165,"id":"2o","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354610781,"id":"2o","total":1,"ms":4615.850392}
+{"_e":"metro:bundling:done","_t":1791354611221,"id":"2n","total":1,"ms":5055.953284}
+{"_e":"metro:bundling:started","_t":1791354611277,"id":"2p","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354611408,"id":"2p","total":1,"ms":130.512953}
+{"_e":"metro:client_log","_t":1791354611864,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791354611865,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354621256,"id":"2r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354621257,"id":"2s","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354621329,"id":"2s","total":1,"ms":71.812509}
+{"_e":"metro:bundling:done","_t":1791354621391,"id":"2r","total":1,"ms":134.232247}
+{"_e":"metro:bundling:started","_t":1791354621816,"id":"2t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354621862,"id":"2t","total":1,"ms":46.192814}
+{"_e":"metro:client_log","_t":1791354622074,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791354622074,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791354709821,"id":"2v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791354709822,"id":"2w","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791354709894,"id":"2w","total":1,"ms":72.134851}
+{"_e":"metro:bundling:done","_t":1791354709952,"id":"2v","total":1,"ms":130.90625}
+{"_e":"metro:bundling:started","_t":1791354710714,"id":"2x","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791354710771,"id":"2x","total":1,"ms":57.430081}
+{"_e":"metro:client_log","_t":1791354712654,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356013931,"id":"2z","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356013939,"id":"30","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356015327,"id":"30","total":1,"ms":1385.965144}
+{"_e":"metro:bundling:done","_t":1791356015534,"id":"2z","total":1,"ms":1600.779291}
+{"_e":"metro:bundling:started","_t":1791356023789,"id":"31","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356024799,"id":"31","total":1,"ms":1008.691867}
+{"_e":"metro:client_log","_t":1791356029986,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356159480,"id":"32","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356181003,"id":"32","total":3428,"ms":21522.906284}
+{"_e":"metro:client_log","_t":1791356185931,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1791356186341,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1791356203684,"id":"36","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356203791,"id":"36","total":1,"ms":105.883281}
+{"_e":"metro:client_log","_t":1791356208400,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1791356208684,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1791356270148,"id":"3a","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356270148,"id":"3b","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356270219,"id":"3b","total":1,"ms":71.053235}
+{"_e":"metro:bundling:done","_t":1791356270700,"id":"3a","total":1,"ms":551.82508}
+{"_e":"root:init","_t":1791356380268,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1791356380270,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1791356380272,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1791356380720,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1791356381101,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1791356382381,"plugins":[]}
+{"_e":"metro:instantiate","_t":1791356384483,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1791356385377,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356387320,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356387320,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356388029,"id":"1","total":3236,"ms":2651.547251}
+{"_e":"metro:bundling:done","_t":1791356389011,"id":"4","total":2677,"ms":1691.056789}
+{"_e":"metro:bundling:done","_t":1791356389558,"id":"3","total":2784,"ms":2238.104669}
+{"_e":"metro:bundling:started","_t":1791356389604,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356389605,"id":"7","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356389660,"id":"7","total":1,"ms":55.290065}
+{"_e":"metro:bundling:done","_t":1791356389886,"id":"6","total":1,"ms":281.309566}
+{"_e":"metro:bundling:started","_t":1791356389946,"id":"8","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356390485,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356390592,"id":"8","total":2653,"ms":645.529909}
+{"_e":"metro:bundling:done","_t":1791356390607,"id":"9","total":1,"ms":121.841655}
+{"_e":"metro:client_log","_t":1791356392905,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356397281,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356397281,"id":"c","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356397340,"id":"c","total":1,"ms":59.518016}
+{"_e":"metro:bundling:done","_t":1791356397526,"id":"b","total":1,"ms":245.177147}
+{"_e":"metro:bundling:started","_t":1791356397845,"id":"d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356397900,"id":"d","total":1,"ms":54.113168}
+{"_e":"metro:client_log","_t":1791356399765,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356402488,"id":"f","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356402488,"id":"g","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356402544,"id":"g","total":1,"ms":56.349446}
+{"_e":"metro:bundling:done","_t":1791356402601,"id":"f","total":1,"ms":112.766686}
+{"_e":"metro:bundling:started","_t":1791356403796,"id":"h","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356403842,"id":"h","total":1,"ms":45.599312}
+{"_e":"metro:client_log","_t":1791356405860,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356410823,"id":"j","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356410823,"id":"k","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356410885,"id":"k","total":1,"ms":61.528141}
+{"_e":"metro:bundling:done","_t":1791356410943,"id":"j","total":1,"ms":119.752889}
+{"_e":"metro:bundling:started","_t":1791356411476,"id":"l","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356411525,"id":"l","total":1,"ms":49.496731}
+{"_e":"metro:client_log","_t":1791356413434,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791356413435,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791356529924,"id":"m","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791356530704,"id":"m","total":3232,"ms":779.969922}
+{"_e":"metro:client_log","_t":1791356535012,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1791356535291,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1791356616108,"id":"r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791356616110,"id":"s","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791356616223,"id":"s","total":1,"ms":113.539375}
+{"_e":"metro:bundling:done","_t":1791356616997,"id":"r","total":1,"ms":888.041099}
+{"_e":"root:init","_t":1791357201767,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1791357201768,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1791357201769,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1791357201940,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1791357202096,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1791357202207,"plugins":[]}
+{"_e":"metro:instantiate","_t":1791357202882,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1791357203870,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357204634,"id":"1","total":3154,"ms":763.687409}
+{"_e":"metro:bundling:started","_t":1791357204660,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357204661,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:started","_t":1791357205427,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357205427,"id":"7","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357205644,"id":"4","total":2675,"ms":982.697017}
+{"_e":"metro:bundling:done","_t":1791357205706,"id":"7","total":1,"ms":278.705364}
+{"_e":"metro:bundling:done","_t":1791357205819,"id":"3","total":2788,"ms":1158.622679}
+{"_e":"metro:bundling:done","_t":1791357205853,"id":"6","total":1,"ms":425.540372}
+{"_e":"metro:bundling:started","_t":1791357206436,"id":"8","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357206817,"id":"8","total":2585,"ms":380.775859}
+{"_e":"metro:bundling:started","_t":1791357207217,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357207268,"id":"9","total":1,"ms":50.591269}
+{"_e":"metro:client_log","_t":1791357209361,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357212856,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357212856,"id":"c","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357212919,"id":"c","total":1,"ms":62.808224}
+{"_e":"metro:bundling:done","_t":1791357212977,"id":"b","total":1,"ms":121.109858}
+{"_e":"metro:bundling:started","_t":1791357213934,"id":"d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357213992,"id":"d","total":1,"ms":56.983788}
+{"_e":"metro:client_log","_t":1791357216080,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357241117,"id":"f","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357241117,"id":"g","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357241183,"id":"g","total":1,"ms":65.4123}
+{"_e":"metro:bundling:done","_t":1791357241243,"id":"f","total":1,"ms":126.189246}
+{"_e":"metro:bundling:started","_t":1791357242190,"id":"h","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357242250,"id":"h","total":1,"ms":59.8357}
+{"_e":"metro:client_log","_t":1791357244260,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357256493,"id":"j","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357256494,"id":"k","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357256558,"id":"k","total":1,"ms":64.400155}
+{"_e":"metro:bundling:done","_t":1791357256613,"id":"j","total":1,"ms":119.522197}
+{"_e":"metro:bundling:started","_t":1791357257077,"id":"l","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357257132,"id":"l","total":1,"ms":54.953247}
+{"_e":"metro:bundling:started","_t":1791357258353,"id":"n","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357258353,"id":"o","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357258408,"id":"o","total":1,"ms":54.693081}
+{"_e":"metro:client_log","_t":1791357258587,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1791357258587,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:done","_t":1791357258593,"id":"n","total":1,"ms":239.683577}
+{"_e":"metro:bundling:started","_t":1791357265239,"id":"q","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357265239,"id":"r","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357265298,"id":"r","total":1,"ms":58.41337}
+{"_e":"metro:bundling:done","_t":1791357265355,"id":"q","total":1,"ms":115.937957}
+{"_e":"metro:bundling:started","_t":1791357265784,"id":"s","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357265826,"id":"s","total":1,"ms":41.844438}
+{"_e":"metro:client_log","_t":1791357267025,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357365911,"id":"u","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357365912,"id":"v","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357365980,"id":"v","total":1,"ms":67.899491}
+{"_e":"metro:bundling:done","_t":1791357366187,"id":"u","total":1,"ms":276.004638}
+{"_e":"metro:bundling:started","_t":1791357366996,"id":"w","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357367049,"id":"w","total":1,"ms":52.967489}
+{"_e":"metro:client_log","_t":1791357369063,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1791357449143,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1791357449144,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1791357449145,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1791357449298,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1791357449430,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1791357449587,"plugins":[]}
+{"_e":"metro:instantiate","_t":1791357450230,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1791357451224,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357452029,"id":"1","total":3058,"ms":804.935384}
+{"_e":"metro:bundling:started","_t":1791357452071,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357452072,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:started","_t":1791357453034,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357453034,"id":"7","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357453174,"id":"4","total":2786,"ms":1102.074063}
+{"_e":"metro:bundling:done","_t":1791357453237,"id":"7","total":1,"ms":202.159065}
+{"_e":"metro:bundling:done","_t":1791357453916,"id":"6","total":1,"ms":881.192054}
+{"_e":"metro:bundling:done","_t":1791357453947,"id":"3","total":2528,"ms":1875.907931}
+{"_e":"metro:bundling:started","_t":1791357454008,"id":"8","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357454477,"id":"8","total":2696,"ms":469.537423}
+{"_e":"metro:bundling:started","_t":1791357454751,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357454806,"id":"9","total":1,"ms":54.483474}
+{"_e":"metro:client_log","_t":1791357456921,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357464637,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357464638,"id":"c","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357464705,"id":"c","total":1,"ms":67.607236}
+{"_e":"metro:bundling:done","_t":1791357464915,"id":"b","total":1,"ms":277.420475}
+{"_e":"metro:bundling:started","_t":1791357465247,"id":"d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357465303,"id":"d","total":1,"ms":56.194497}
+{"_e":"metro:client_log","_t":1791357467761,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357516171,"id":"e","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357516815,"id":"e","total":3246,"ms":644.127423}
+{"_e":"metro:client_log","_t":1791357520813,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1791357521118,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1791357702076,"id":"i","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357702171,"id":"i","total":1,"ms":94.702897}
+{"_e":"metro:client_log","_t":1791357706984,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1791357707279,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1791357805071,"id":"o","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357805071,"id":"p","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357805176,"id":"p","total":1,"ms":104.242207}
+{"_e":"metro:bundling:done","_t":1791357805629,"id":"o","total":1,"ms":557.943548}
+{"_e":"metro:bundling:started","_t":1791357805998,"id":"q","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357806054,"id":"q","total":1,"ms":56.018149}
+{"_e":"metro:client_log","_t":1791357807923,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1791357901679,"id":"t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1791357901679,"id":"u","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1791357901754,"id":"u","total":1,"ms":75.246703}
+{"_e":"metro:bundling:done","_t":1791357901814,"id":"t","total":1,"ms":135.246545}
+{"_e":"metro:bundling:started","_t":1791357903035,"id":"v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1791357903093,"id":"v","total":1,"ms":58.35168}
+{"_e":"metro:client_log","_t":1791357905365,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1792254722413,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1792254722414,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792254722415,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792254722725,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792254723055,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792254723346,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792254724538,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1792254725642,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254736613,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254736613,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254762679,"id":"1","total":3277,"ms":37037.262854}
+{"_e":"metro:bundling:done","_t":1792254763092,"id":"4","total":2787,"ms":26479.010506}
+{"_e":"metro:bundling:started","_t":1792254763239,"id":"6","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254763239,"id":"7","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254763300,"id":"7","total":1,"ms":60.718281}
+{"_e":"metro:bundling:done","_t":1792254763367,"id":"3","total":2789,"ms":26754.138608}
+{"_e":"metro:bundling:done","_t":1792254764084,"id":"6","total":1,"ms":844.991752}
+{"_e":"metro:bundling:started","_t":1792254764179,"id":"8","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792254773893,"id":"8","total":2788,"ms":9713.409195}
+{"_e":"metro:bundling:started","_t":1792254782374,"id":"a","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254782374,"id":"b","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254782437,"id":"b","total":1,"ms":62.782012}
+{"_e":"metro:bundling:done","_t":1792254782495,"id":"a","total":1,"ms":120.761537}
+{"_e":"metro:bundling:started","_t":1792254783938,"id":"c","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792254784003,"id":"c","total":1,"ms":65.48535}
+{"_e":"metro:client_log","_t":1792254787060,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792254807222,"id":"e","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254807222,"id":"f","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254807280,"id":"f","total":1,"ms":58.348778}
+{"_e":"metro:bundling:done","_t":1792254807336,"id":"e","total":1,"ms":114.024223}
+{"_e":"metro:bundling:started","_t":1792254808050,"id":"g","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792254808110,"id":"g","total":1,"ms":59.755466}
+{"_e":"metro:client_log","_t":1792254810931,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792254818102,"id":"i","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254818102,"id":"j","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254818151,"id":"j","total":1,"ms":49.367185}
+{"_e":"metro:bundling:done","_t":1792254818206,"id":"i","total":1,"ms":103.855784}
+{"_e":"metro:bundling:started","_t":1792254819861,"id":"k","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792254819912,"id":"k","total":1,"ms":50.549423}
+{"_e":"metro:bundling:started","_t":1792254823349,"id":"m","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254823350,"id":"n","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254823414,"id":"n","total":1,"ms":64.160997}
+{"_e":"metro:bundling:done","_t":1792254823521,"id":"m","total":1,"ms":171.906276}
+{"_e":"metro:client_log","_t":1792254823676,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792254823676,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792254949801,"id":"p","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792254949802,"id":"q","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792254949886,"id":"q","total":1,"ms":84.564439}
+{"_e":"metro:bundling:done","_t":1792254949945,"id":"p","total":1,"ms":143.694903}
+{"_e":"metro:bundling:started","_t":1792254951482,"id":"r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792254951550,"id":"r","total":1,"ms":67.369253}
+{"_e":"metro:client_log","_t":1792254954935,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792254954936,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255026250,"id":"t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255026250,"id":"u","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255026310,"id":"u","total":1,"ms":59.217107}
+{"_e":"metro:bundling:done","_t":1792255026365,"id":"t","total":1,"ms":115.039577}
+{"_e":"metro:bundling:started","_t":1792255027252,"id":"v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255027322,"id":"v","total":1,"ms":70.417209}
+{"_e":"metro:client_log","_t":1792255030152,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792255030153,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255037469,"id":"x","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255037469,"id":"y","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255037520,"id":"y","total":1,"ms":51.701362}
+{"_e":"metro:bundling:done","_t":1792255037733,"id":"x","total":1,"ms":263.863928}
+{"_e":"metro:bundling:started","_t":1792255412228,"id":"10","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255412228,"id":"11","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255412332,"id":"11","total":1,"ms":103.893345}
+{"_e":"metro:bundling:done","_t":1792255412400,"id":"10","total":1,"ms":171.608296}
+{"_e":"metro:bundling:started","_t":1792255414035,"id":"12","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255414105,"id":"12","total":1,"ms":69.778862}
+{"_e":"metro:bundling:started","_t":1792255422549,"id":"13","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255438993,"id":"13","total":3429,"ms":16443.655637}
+{"_e":"metro:client_log","_t":1792255445596,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1792255445897,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1792255480740,"id":"18","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255480740,"id":"19","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255480818,"id":"19","total":1,"ms":78.057486}
+{"_e":"metro:bundling:done","_t":1792255480888,"id":"18","total":1,"ms":148.369568}
+{"_e":"root:init","_t":1792255573808,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1792255573810,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792255573811,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792255574072,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792255574284,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792255574477,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792255575313,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1792255575898,"id":"1","platform":"ios","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255576822,"id":"1","total":3252,"ms":923.844089}
+{"_e":"metro:bundling:started","_t":1792255576859,"id":"3","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255576859,"id":"4","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255578001,"id":"4","total":2787,"ms":1141.809666}
+{"_e":"metro:bundling:done","_t":1792255578072,"id":"3","total":2546,"ms":1213.583159}
+{"_e":"metro:bundling:started","_t":1792255578741,"id":"5","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255579140,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255579140,"id":"8","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255579192,"id":"8","total":1,"ms":51.324916}
+{"_e":"metro:bundling:done","_t":1792255579452,"id":"7","total":1,"ms":311.848871}
+{"_e":"metro:bundling:done","_t":1792255579528,"id":"5","total":2678,"ms":786.641702}
+{"_e":"metro:bundling:started","_t":1792255580870,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255580935,"id":"9","total":1,"ms":65.03688}
+{"_e":"metro:bundling:started","_t":1792255586945,"id":"b","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255586945,"id":"c","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255587034,"id":"c","total":1,"ms":88.647565}
+{"_e":"metro:bundling:done","_t":1792255587094,"id":"b","total":1,"ms":149.654598}
+{"_e":"metro:bundling:started","_t":1792255588568,"id":"d","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255588629,"id":"d","total":1,"ms":60.419501}
+{"_e":"metro:client_log","_t":1792255591949,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255598732,"id":"f","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255598732,"id":"g","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255598808,"id":"g","total":1,"ms":75.614235}
+{"_e":"metro:bundling:done","_t":1792255598879,"id":"f","total":1,"ms":146.476588}
+{"_e":"metro:bundling:started","_t":1792255599654,"id":"h","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255599712,"id":"h","total":1,"ms":57.88559}
+{"_e":"metro:client_log","_t":1792255601501,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255606964,"id":"j","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255606965,"id":"k","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255607042,"id":"k","total":1,"ms":77.535668}
+{"_e":"metro:bundling:done","_t":1792255607113,"id":"j","total":1,"ms":148.49829}
+{"_e":"metro:bundling:started","_t":1792255607774,"id":"l","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255607834,"id":"l","total":1,"ms":60.007569}
+{"_e":"metro:client_log","_t":1792255609997,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255611307,"id":"n","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255611308,"id":"o","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255611379,"id":"o","total":1,"ms":71.148069}
+{"_e":"metro:bundling:done","_t":1792255611590,"id":"n","total":1,"ms":282.958475}
+{"_e":"metro:bundling:started","_t":1792255612126,"id":"p","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255612183,"id":"p","total":1,"ms":57.511618}
+{"_e":"metro:client_log","_t":1792255615274,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792255615275,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255634349,"id":"r","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255634349,"id":"s","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255634422,"id":"s","total":1,"ms":72.733804}
+{"_e":"metro:bundling:done","_t":1792255634491,"id":"r","total":1,"ms":141.957694}
+{"_e":"metro:bundling:started","_t":1792255635107,"id":"t","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255635166,"id":"t","total":1,"ms":59.158286}
+{"_e":"metro:bundling:started","_t":1792255644225,"id":"v","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255644226,"id":"w","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255644302,"id":"w","total":1,"ms":75.972246}
+{"_e":"metro:bundling:done","_t":1792255644373,"id":"v","total":1,"ms":148.485566}
+{"_e":"metro:bundling:started","_t":1792255645896,"id":"x","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255645959,"id":"x","total":1,"ms":62.432687}
+{"_e":"metro:client_log","_t":1792255649623,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255701597,"id":"z","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:started","_t":1792255701598,"id":"10","platform":"web","environment":"node","entry":"node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:done","_t":1792255701680,"id":"10","total":1,"ms":82.566472}
+{"_e":"metro:bundling:done","_t":1792255701738,"id":"z","total":1,"ms":140.302191}
+{"_e":"metro:bundling:started","_t":1792255703355,"id":"11","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255703417,"id":"11","total":1,"ms":61.036749}
+{"_e":"metro:client_log","_t":1792255706881,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792255740842,"id":"12","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:done","_t":1792255741544,"id":"12","total":3371,"ms":702.372687}
+{"_e":"metro:client_log","_t":1792255747658,"level":"warn","data":["Linking requires a build-time setting `scheme` in the project's Expo config (app.config.js or app.json) for production apps, if it's left blank, your app may crash. The scheme does not apply to development in the Expo client but you should add it as soon as you start working with Linking to avoid creating a broken build. Learn more: https://docs.expo.dev/guides/linking/"]}
+{"_e":"metro:client_log","_t":1792255747935,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
